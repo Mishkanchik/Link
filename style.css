@@ -29,7 +29,7 @@ li{
     padding: 10px 70px;
     list-style: none;
     font-size: 16px;
-    background: linear-gradient(135deg, #c39ffd,#8b20fd,#4d05f7 );
+    background: linear-gradient(135deg, #acc9ff,#88c3da,#bedcf8 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
@@ -103,6 +103,12 @@ li{
     margin-top: 20px;
     width: auto;
     height: 40px;
+    background: linear-gradient(135deg, #acc9ff,#88c3da,#bedcf8 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    font-family: "Oswald", sans-serif;
+    font-weight: bold;
 }
 
 
