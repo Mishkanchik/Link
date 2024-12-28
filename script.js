@@ -6,7 +6,7 @@ function createSnowflake() {
   snowflake.classList.add("snowflake");
   snowflake.textContent = "❅"; // Можете замінити на інші символи, наприклад ❅ або ❆ abo ✿
   snowflake.style.left = Math.random() * window.innerWidth + "px";
-  snowflake.style.animationDuration = Math.random() * 3 + 2 + "s"; // Швидкість падіння
+  snowflake.style.animationDuration = Math.random() * 4 + 4 + "s"; // Швидкість падіння
   snowflake.style.fontSize = Math.random() * 10 + 10 + "px"; // Розмір сніжинки
   snowflake.style.opacity = Math.random(); // Прозорість
 
